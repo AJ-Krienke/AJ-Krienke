@@ -56,3 +56,5 @@
     <li>Gimp</li>
   </ul>
 </fieldset>
+
+<h2>Feel free to look around my profile and see what I have been up to</h2>

@@ -1,10 +1,10 @@
-###Hello and Welcome
+<h3>Hello and Welcome</h3>
 
-#Aj Krienke
-##Aspiring Frontend Web Developer
----
-Welcome to my profile. I am learning everything I can to start my journey as a frontend web developer.
-I am contiuosly learning and improving so feel free to check out my repositories and see what I've been up to.
+<h1>Aj Krienke</h1>
+<h2>Aspiring Frontend Web Developer</h2>
+<hr>
+<p>Welcome to my profile. I am learning everything I can to start my journey as a frontend web developer.</p>
+<p>I am continuosly learning and improving so feel free to check out my repositories and see what I've been up to.</p>
 
 
 <!--

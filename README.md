@@ -7,7 +7,7 @@
 <p>
   My first exposure to software was when I was a kid and a friend of mine who
   knew a little q-basic, made a program that asked for your name, and any name
-  entered would say that person sucked, when he enetered his name, it said that
+  entered would say that person sucked, when he entered his name, it would say that
   he ruled.
 </p>
 <p>

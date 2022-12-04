@@ -58,4 +58,4 @@
 </fieldset>
 
 <h2>Feel free to look around my profile and see what I have been up to</h2>
-<p>If you want to reach out, I'm on <a title='Opens LinkedIn on my page' href="https://www.linkedin.com/in/aj-krienke-ba6bb1202">LinkedIn</a>, and twitter - @AJ_Krienke</p>
+<p>If you want to reach out, I'm on <a title='Opens LinkedIn on my page' href="https://www.linkedin.com/in/aj-krienke-ba6bb1202">LinkedIn</a>, and <a title='opens my twitter profile' href="https://twitter.com/AJ_Krienke">Twitter</a></p>

@@ -1,4 +1,11 @@
-### Hi there 👋
+###Hello and Welcome
+
+#Aj Krienke
+##Aspiring Frontend Web Developer
+---
+Welcome to my profile. I am learning everything I can to start my journey as a frontend web developer.
+I am contiuosly learning and improving so feel free to check out my repositories and see what I've been up to.
+
 
 <!--
 **AJ-Krienke/AJ-Krienke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

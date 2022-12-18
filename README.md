@@ -23,7 +23,7 @@
 </p>
 
 <h3>
-  I studied the following in my pursuit of my aspirations, which led to want to
+  I studied the following in pursuit of my aspirations, which led me to want to
   become a web dev
 </h3>
 

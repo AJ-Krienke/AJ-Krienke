@@ -28,7 +28,7 @@
 </h3>
 
 <fieldset>
-  <legend>Programming Languages</legend>
+  <legend>Programming Languages and Frameworks</legend>
   <ul>
     <li>Html 5</li>
     <li>CSS 3</li>

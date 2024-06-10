@@ -38,4 +38,4 @@
 </fieldset>
 
 <h2>Feel free to look around my profile and see what I have been up to</h2>
-<p>If you want to reach out, I'm on <a title='Opens my LinkedIn profile' href="https://www.linkedin.com/in/aj-krienke-ba6bb1202">LinkedIn</a>. For my deployed project, check out the site on <a title='Opens my project on netlify.com' href='https://flourishing-conkies-00959a.netlify.app/'>Netlify</a></p>
+<p>If you want to reach out, I'm on <a title='Opens my LinkedIn profile' href="https://www.linkedin.com/in/aj-krienke-ba6bb1202">LinkedIn</a>. For my deployed react project, check out the site on <a title='Opens my project on netlify.com' href='https://flourishing-conkies-00959a.netlify.app/'>Netlify</a></p>

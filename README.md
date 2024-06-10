@@ -24,8 +24,8 @@
 <fieldset>
   <legend>My most used skills to date:</legend>
   <ul>
-    <li>Html 5 - Semantic HTML</li>
-    <li>CSS 3</li>
+    <li>Html</li>
+    <li>CSS</li>
     <li>JavaScript</li>
     <ul>
       <li>incl. React</li>
